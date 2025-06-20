@@ -240,8 +240,27 @@ backend_rumahsakit/
 
 ---
 
-## 👨‍💻 Dibuat oleh
+### 🎨 FRONTEND
+#### 1.  Install Laravel
+   Melalui Terminal
+```php
+composer create-priject laravel/laravel frontens-uas-230202087
+```
 
-**Prih Diantono Abda’u, M.Kom**
-UAS Praktikum Pemrograman Berbasis Framework – Genap 2024/2025
-Politeknik Negeri Cilacap
+   Melalui Laragon
+   - Buka Laragon
+   - Klik kanan
+   - Quick app
+   - Laravel
+#### 2. Install Dependency Laravel
+   ```php
+   composer install
+   ```
+#### 3.Buat View, Model, dan Controller dalam file laravel
+
+####  4. Menjalankan Laravel
+   ```php
+   php artisan serve
+   ```
+
+
