@@ -1,13 +1,12 @@
-# Tutorial Frontend Laravel Sistem Bimbingan Tugas AKhir(CRUD API CodeIgniter 4)
-Sistem ini dibuat untuk memudahkan proses bimbingan Tugas Akhir antara mahasiswa dan dosen secara terintegrasi. Aplikasi ini dibangun menggunakan framework Laravel untuk sisi frontend dan mengonsumsi data dari REST API backend.
+# Frontend Sistem Rumah Sakit(UAS PBF || CRUD API CodeIgniter 4)
+.
 
 ---
 
 ## 🛠️ Teknologi
 
 - **Laravel 12**
-- **PHP 8.2**
-- **Tailwind CSS**
+- **PHP 8.3.9**
 - **Laravel HTTP Client**
 - **REST API (backend terpisah)**
 
